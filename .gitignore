@@ -1,1 +1,4 @@
 .DS_Store
+yelp_api.py
+.ipynb_checkpoints/
+__pycache__/
